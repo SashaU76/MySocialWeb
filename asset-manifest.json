@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/MySocialWeb/static/css/main.884d2ea7.chunk.css",
-    "main.js": "/MySocialWeb/static/js/main.4275e971.chunk.js",
-    "main.js.map": "/MySocialWeb/static/js/main.4275e971.chunk.js.map",
+    "main.js": "/MySocialWeb/static/js/main.ac44bd3d.chunk.js",
+    "main.js.map": "/MySocialWeb/static/js/main.ac44bd3d.chunk.js.map",
     "runtime-main.js": "/MySocialWeb/static/js/runtime-main.45b98bcf.js",
     "runtime-main.js.map": "/MySocialWeb/static/js/runtime-main.45b98bcf.js.map",
-    "static/js/2.c5f7d1ac.chunk.js": "/MySocialWeb/static/js/2.c5f7d1ac.chunk.js",
-    "static/js/2.c5f7d1ac.chunk.js.map": "/MySocialWeb/static/js/2.c5f7d1ac.chunk.js.map",
+    "static/js/2.008eae78.chunk.js": "/MySocialWeb/static/js/2.008eae78.chunk.js",
+    "static/js/2.008eae78.chunk.js.map": "/MySocialWeb/static/js/2.008eae78.chunk.js.map",
     "static/js/3.17b3bcd7.chunk.js": "/MySocialWeb/static/js/3.17b3bcd7.chunk.js",
     "static/js/3.17b3bcd7.chunk.js.map": "/MySocialWeb/static/js/3.17b3bcd7.chunk.js.map",
     "index.html": "/MySocialWeb/index.html",
     "static/css/main.884d2ea7.chunk.css.map": "/MySocialWeb/static/css/main.884d2ea7.chunk.css.map",
-    "static/js/2.c5f7d1ac.chunk.js.LICENSE.txt": "/MySocialWeb/static/js/2.c5f7d1ac.chunk.js.LICENSE.txt",
+    "static/js/2.008eae78.chunk.js.LICENSE.txt": "/MySocialWeb/static/js/2.008eae78.chunk.js.LICENSE.txt",
     "static/media/App.css": "/MySocialWeb/static/media/kindergarten.2ce241e0.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.45b98bcf.js",
-    "static/js/2.c5f7d1ac.chunk.js",
+    "static/js/2.008eae78.chunk.js",
     "static/css/main.884d2ea7.chunk.css",
-    "static/js/main.4275e971.chunk.js"
+    "static/js/main.ac44bd3d.chunk.js"
   ]
 }
